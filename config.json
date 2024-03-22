@@ -1,6 +1,6 @@
 {
-  "bot_token": "1234567890:AAAAAAAAAAAAAAAASOMETOKENAAAAAAAA",
-  "whitelisted_chat_ids": [],
+  "bot_token": "5731697441:AAGq5w6oTa3zJT5IZLc9QnjHGxJEt-4STOs",
+  "whitelisted_chat_ids": [1667770685],
   "prevent_unmentioned_commands_in_groups": true,
   "shells": {
     "/get_dir": {
